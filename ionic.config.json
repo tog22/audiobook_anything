@@ -1,0 +1,7 @@
+{
+  "name": "audiobook_anything",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
